@@ -51,7 +51,5 @@ while date['日期2']['年']>date['日期1']['年']:
     date['日期2']['年']-=1
     date_second_len+=yearlen(date['日期2']['年'])
     
-    
-print(' 日期1：公元',date_first_len,'天','\n','日期2：公元',date_second_len,'天')
 variation=date_second_len-date_first_len
 print('相差',variation,'天')
