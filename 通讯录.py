@@ -1,8 +1,12 @@
+<<<<<<< HEAD
 '''
 by lin
 2019.3.29
 '''
 menu=eval(input("打开menu请输入1\n退出请输入2\n"))
+=======
+menu=eval(input("打开menu请输入1\n退出请输入0\n"))
+>>>>>>> 4ff46dfa71df29325fb24a615a123c478da941fa
 message={}
 while menu != 2:
     n=int(input("增加姓名和手机请输入 1\n删除姓名请输入 2\n修改手机号请输入 3\n查询所有用户请输入4\n查找手机号请输入5\n退出请输入0\n"))
