@@ -1,3 +1,7 @@
+'''
+by lin
+2019.3.29
+'''
 menu=eval(input("打开menu请输入1\n退出请输入2\n"))
 message={}
 while menu != 2:

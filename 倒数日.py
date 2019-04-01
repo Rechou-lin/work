@@ -1,3 +1,7 @@
+'''
+by lin
+2019.3.29
+'''
 date={}
 global date_first_len
 global date_second_len
