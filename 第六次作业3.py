@@ -10,3 +10,4 @@ a.pop(0)
 for i in range(len(a)):
     average+=int(a[i])
 average=average/len(a)
+print(average)
