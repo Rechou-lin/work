@@ -23,7 +23,7 @@ for i in range(42):
     fname=data[i+1,3],
     figtype='jpg'
     )
-    # plt.savefig(**param)
+    plt.savefig(**param)
     # plt.show()
 
 
