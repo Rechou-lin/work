@@ -1,6 +1,7 @@
 '''
 by lin
 2019.4.16
+这段程序使用Mask_II的csv文件
 '''
 import numpy as np 
 import matplotlib.pyplot as plt
