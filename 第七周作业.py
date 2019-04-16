@@ -1,3 +1,8 @@
+'''
+by lin
+2019.4.14
+这段程序使用的 统计作业 包中的csv文件
+'''
 import numpy as np 
 import matplotlib.pyplot as plt
 import csv
