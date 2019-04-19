@@ -1,4 +1,9 @@
 # -*- coding: utf-8 -*-
+'''
+by lin
+2019.4.19
+第八周作业 第一题
+'''
 import numpy as np
 from scipy.optimize import leastsq
 import pylab as pl
