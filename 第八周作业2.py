@@ -5,6 +5,9 @@ by lin
 第八周作业第二题
 
 个人觉得拟合得比较合理
+我这里初始参数只给了一次，
+如果分别给最高温和最低温一次初始拟合参数，
+应该拟合效果会更合理
 '''
 import numpy as np
 from scipy.optimize import leastsq
