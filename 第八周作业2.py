@@ -16,7 +16,7 @@ def func(p,x):
     '''
     定义一个函数 拟合温度就等于平均温度加温差
     '''
-    dtem,avertem,theta=p#dtem--温差， avertem--平均温度， theta--时间偏移引入的
+    dtem,avertem,theta=p#dtem--温差， avertem--平均温度
     return avertem+dtem*np.sin(2*np.pi*(1/12)*x+theta)
 
 def residuals(p,y,x):
