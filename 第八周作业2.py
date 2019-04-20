@@ -3,11 +3,12 @@
 by lin
 2019.4.19
 第八周作业第二题
+利用scipy.optimize.leastsq 拟合曲线
 
-个人觉得拟合得比较合理
+
 我这里初始参数只给了一次，
 如果分别给最高温和最低温一次初始拟合参数，
-应该拟合效果会更合理
+应该拟合效果会更好一点
 '''
 import numpy as np
 from scipy.optimize import leastsq
